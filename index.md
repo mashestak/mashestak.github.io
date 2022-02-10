@@ -22,7 +22,7 @@
 
 ### [Задание 1.7](https://github.com/mashestak/mashestak.github.io/blob/main/ИСР%20задание%201.7.docx)
 
-### [Задание 1.8]
+### [Задание 1.8](https://github.com/mashestak/mashestak.github.io/blob/main/ИСР%20задание%201.8.docx)
 
 ### [Задание 1.9]
 
