@@ -10,7 +10,7 @@
 
 ### [Задание 1.1](https://github.com/mashestak/mashestak.github.io/blob/main/ИСР%20задание%201.1.docx)
 
-### [Задание 1.2]
+### [Задание 1.2](https://github.com/mashestak/mashestak.github.io/blob/main/ИСР%20задание%201.8.docx)
 
 ### [Задание 1.3]
 
@@ -21,6 +21,7 @@
 ### [Задание 1.6](https://github.com/mashestak/mashestak.github.io/blob/main/ИСР%20задание%201.6.docx)
 
 ### [Задание 1.7](https://github.com/mashestak/mashestak.github.io/blob/main/ИСР%20задание%201.7.docx)
+
 ### [Задание 1.8]
 
 ### [Задание 1.9]
