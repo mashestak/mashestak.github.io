@@ -1,8 +1,6 @@
 ## Портфолио Шестак Марии Максимовны
 ## студентка 1 курса 2 группы
 
-## mashestak.github.io  
-
 ## [Задание на практику](https://github.com/mashestak/mashestak.github.io/blob/main/задание%20на%20практику.docx)
 
 ## [Отчет по практике](https://github.com/mashestak/mashestak.github.io/blob/main/отчет%20по%20практике.docx)
