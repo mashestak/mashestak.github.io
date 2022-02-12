@@ -3,9 +3,9 @@
 
 ## mashestak.github.io  
 
-## [Задание на практику]
+## [Задание на практику](https://github.com/mashestak/mashestak.github.io/blob/main/задание%20на%20практику.docx)
 
-## [Отчет по практике]
+## [Отчет по практике](https://github.com/mashestak/mashestak.github.io/blob/main/отчет%20по%20практике.docx)
 
 # ИСР
 
@@ -29,7 +29,7 @@
 
 ### [Задание 1.10](https://github.com/mashestak/mashestak.github.io/blob/main/ИСР%20задание%201.10.docx)
 
-### [Задание 1.11]
+### [Задание 1.11](https://github.com/mashestak/mashestak.github.io/blob/main/ИСР%20задание%201.11.pdf)
 
 # ВСР 
 
@@ -37,6 +37,6 @@
 
 ### [Задание 2.2](https://github.com/mashestak/mashestak.github.io/blob/main/ВСР%20задание%202.2.docx)
 
-### [Задание 2.3]
+### [Задание 2.3](https://github.com/mashestak/mashestak.github.io/blob/main/ВСР%20задание%202.3.docx)
 
-### [Задание 2.4]
+### [Задание 2.4](https://github.com/mashestak/mashestak.github.io/blob/main/ВСР%20задание%202.4.docx)
